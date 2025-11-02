@@ -767,7 +767,7 @@ const listProduct =[
         title: "Solis Inverter",
         model: "on grid 3 phase",
         description: "S5-GR3P-15K",
-        imgSrc: "image/on_grid_3phase.jpg.jpg",
+        imgSrc: "image/on_grid_3phase.jpg",
         Info:[
             {
                 brand: "ម៉ាក: Solis",
@@ -807,7 +807,7 @@ const listProduct =[
         title: "Solis Inverter",
         model: "on grid 3 phase",
         description: "S5-GR3P-20K",
-        imgSrc: "image/on_grid_3phase.jpg.jpg",
+        imgSrc: "image/on_grid_3phase.jpg",
         Info:[
             {
                 brand: "ម៉ាក: Solis",
@@ -2214,5 +2214,6 @@ window.addEventListener("DOMContentLoaded", () => {
         }
     }
 });
+
 
 
