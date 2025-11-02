@@ -692,13 +692,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Solis",
                 model: "Description: Rate Power 5Kw, WiFi, Meter,PV input 2 Strings",
-                size: "Zero export method: Meter",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 580",
+                solarpanel: "Zero export method: Meter",
             }
         ]
     },
@@ -712,13 +712,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Solis",
                 model: "Description: Rate Power 10Kw, WiFi, Meter,PV input 3 Strings",
-                size: "Zero export method: Meter",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 1,200",
+                solarpanel: "Zero export method: Meter",
             }
         ]
     },
@@ -732,13 +732,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Solid",
                 model: "Description: Rate Power 10Kw, WiFi, Meter, PV input 2 Strings",
-                size: "Zero export method: Meter",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 1,200",
+                solarpanel: "Zero export method: Meter",
             }
         ]
     },
@@ -752,13 +752,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Solis",
                 model: "Description: Rate Power 15Kw, WiFi, Meter, PV input 4 Strings",
-                size: "Zero export method: Meter",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 1,350",
+                solarpanel: "Zero export method: Meter",
             }
         ]
     },
@@ -772,13 +772,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Solis",
                 model: "Description: Rate Power 20Kw, WiFi, Meter, PV input 4 Strings",
-                size: "Zero export method: Meter",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 1,450",
+                solarpanel: "Zero export method: Meter",
             }
         ]
     },
@@ -792,13 +792,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Solis",
                 model: "Description: Rate Power 30Kw, WiFi, Meter, PV input 6 Strings",
-                size: "Zero export method: Meter",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 2,050",
+                solarpanel: "Zero export method: Meter",
             }
         ]
     },
@@ -811,14 +811,14 @@ const listProduct =[
         Info:[
             {
                 brand: "ម៉ាក: Solis",
-                model: "Description: Rate Power 60Kw, WiFi,Meter, PV input 12 Strings",
+                model: "",
                 size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 3,000",
+                solarpanel: "Description: Rate Power 60Kw, WiFi,Meter, PV input 12 Strings",
             }
         ]
     },
@@ -831,14 +831,14 @@ const listProduct =[
         Info:[
             {
                 brand: "ម៉ាក: Solis",
-                model: "Description: Rate Power 110Kw, WiFi, Meter, PV input 20 Strings",
+                model: "",
                 size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 4,300",
+                solarpanel: "Description: Rate Power 110Kw, WiFi, Meter, PV input 20 Strings",
             }
         ]
     },
@@ -851,14 +851,14 @@ const listProduct =[
         Info:[
             {
                 brand: "ម៉ាក: Solis",
-                model: "Description: Single phase, តម្លើងចាប់ពី 2 inverters",
+                model: "",
                 size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 450",
+                solarpanel: "Description: Single phase, តម្លើងចាប់ពី 2 inverters",
             }
         ]
     },
@@ -871,14 +871,14 @@ const listProduct =[
         Info:[
             {
                 brand: "ម៉ាក: Solis",
-                model: "Description: 3 phase, តម្លើងចាប់ពី 2 inverters",
+                model: "",
                 size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 550",
+                solarpanel: "Description: 3 phase, តម្លើងចាប់ពី 2 inverters",
             }
         ]
     },
@@ -892,13 +892,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Solis",
                 model: "Description: Rate 10Kw 3phase, Battery 120-600V,    PV input 16KW, 1000V (mppt 200-850V), 4 string , WiFi",
-                size: "Zero export method: Meter",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 2,250",
+                solarpanel: "Zero export method: Meter",
             }
         ]
     },
@@ -912,13 +912,13 @@ const listProduct =[
             {
                 brand: "solar pump",
                 model: "Description: Rate 6Kw 1phase, Battery 42-58V, PV input 9.6KW, 600V (mppt 90-520V), 2 string , WiFi,CT(Zero Export)",
-                size: "Zero export method: CT",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 950",
+                solarpanel: "Zero export method: CT",
             }
         ]
         
@@ -933,13 +933,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Solis",
                 model: "Description: Rate 8Kw 1phase, Battery 42-60V, PV input 12.8KW, 600V (mppt 90-500V), 3 string , WiFi, Bluetooth, CT",
-                size: "Zero export method: CT",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 1,500",
+                solarpanel: "Zero export method: CT",
             }
         ]
     },
@@ -952,14 +952,14 @@ const listProduct =[
         Info:[
             {
                 brand: "ម៉ាក: Solis",
-                model: "Description: Rate 5Kw 1phase, Battery 42-58V, PV input 5.5KW, 500V (mppt 90-480V), 2 string , WiFi",
+                model: "",
                 size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 450",
+                solarpanel: "Description: Rate 5Kw 1phase, Battery 42-58V, PV input 5.5KW, 500V (mppt 90-480V), 2 string , WiFi",
             }
         ]
     },
@@ -974,12 +974,12 @@ const listProduct =[
                 brand: "Low Voltage 25.6V",
                 model: "Model: UNIV3800W",
                 size: "Description: LiFePO4 Lithium Battery 25.6V 150Ah,BMS",
-                horsepower: "Rate power: 3.8Kwh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 480",
+                solarpanel: "Rate power: 3.8Kwh",
             }
         ]
     },
@@ -994,12 +994,12 @@ const listProduct =[
                 brand: "Low Voltage 51.2V",
                 model: "Model: UNIV-5200-Rack",
                 size: "Description: UNIV-5200(R), 5.22kwh(51.2v102ah)Lithium Battery with BMS",
-                horsepower: "Rate power: 5.22Kwh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 750",
+                solarpanel: "Rate power: 5.22Kwh",
             }
         ]
     },
@@ -1014,12 +1014,12 @@ const listProduct =[
                 brand: "Low Voltage 51.2V",
                 model: "Model: UNIV-10KWh-Rack",
                 size: "Description: UNIV-10kWh/LV(R), 10.2kwh(51.2V200Ah)Lithium Battery with BMS",
-                horsepower: "Rate power: 10.2Kwh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: No stock",
+                solarpanel: "Rate power: 10.2Kwh",
             }
         ]
     },
@@ -1034,12 +1034,12 @@ const listProduct =[
                 brand: "Low Voltage 51.2V",
                 model: "Model: UNIV-14.3KWh-Rack",
                 size: "Description: UNIV-14.3kWh/LV(R) ,14.3kwh(51.2V280Ah)Lithium Battery with BMS",
-                horsepower: "Rate power: 14.3Kwh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: No stock",
+                solarpanel: "Rate power: 14.3Kwh",
             }
         ]
     },
@@ -1054,12 +1054,12 @@ const listProduct =[
                 brand: "Low Voltage 51.2V",
                 model: "Model: UNIV-10kWhFS",
                 size: "Description: UNIV-10kWhFS /LV(W), 10.2kwh(51.2V200Ah) Lithium Battery with BMS",
-                horsepower: "Rate power: 10.2KWh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 1,250",
+                solarpanel: "Rate power: 10.2KWh",
             }
         ]
     },
@@ -1075,12 +1075,12 @@ const listProduct =[
                 brand: "Low Voltage 51.2V",
                 model: "Model: UNIV-16.2kWhFS",
                 size: "Description: UNIV-16.2kWhFS /LV(W), 16.2kwh(51.2V315Ah)Lithium Battery with BMS",
-                horsepower: "Rate power: 16.2KWh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 1,750",
+                solarpanel: "Rate power: 16.2KWh",
             }
         ]
     },
@@ -1095,12 +1095,12 @@ const listProduct =[
                 brand: "High Voltage",
                 model: "Model: UNIV-HV ST31K",
                 size: "Description: 76.8V100Ah Per Module 4 Pcs of 7.6kwh LiFePO4",
-                horsepower: "Rate power: 31Kwh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 4,250",
+                solarpanel: "Rate power: 31Kwh",
             }
         ]
     },
@@ -1115,12 +1115,12 @@ const listProduct =[
                 brand: "High Voltage",
                 model: "Model: UNIV-HV ST61K",
                 size: "Description: 76.8V100Ah Per Module 8 Pcs of 7.6kwh LiFePO4 Lithium Battery as 61kWh",
-                horsepower: "Rate power: 61Kwh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 7,500",
+                solarpanel: "Rate power: 61Kwh",
             }
         ]
     },
@@ -1135,12 +1135,12 @@ const listProduct =[
                 brand: "High Voltage",
                 model: "Model: 100Kwh",
                 size: "Description: 51.2v 280Ah per Pack 7 Packs in Series as 100Kw 358V",
-                horsepower: "Rate power: 100Kwh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 1,1000",
+                solarpanel: "Rate power: 100Kwh",
             }
         ]
     },
@@ -1155,12 +1155,12 @@ const listProduct =[
                 brand: "High Voltage",
                 model: "Model: 200Kwh",
                 size: "Description: 51.2v 280Ah per Pack 14 Packs in Series as 200Kwh 716V",
-                horsepower: "Rate power: 200Kwh",
+                horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: 20,500$",
+                solarpanel: "Rate power: 200Kwh",
             }
         ]
     },
@@ -1314,13 +1314,13 @@ const listProduct =[
             {
                 brand: "Model: Sky Dream Serial",
                 model: "Spec: 30A/12V-24V USB",
-                size: "Description: PWM,With current display, 32-bit imported chip,Light and Timer control，Lithium battery support",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
-                amountwater: "លក់ដុំ: $20.0",
-                solarpanel: "លក់រាយ:  $30.0",
+                amountwater: "",
+                solarpanel: "Description: PWM,With current display, 32-bit imported chip,Light and Timer control，Lithium battery support",
             }
         ]
     },
@@ -1334,13 +1334,13 @@ const listProduct =[
             {
                 brand: "Model: Sky Dream Serial",
                 model: "Spec: 40A/12V-24V USB",
-                size: "Description: PWM,With current display, 32-bit imported chip,Light and Timer control，Lithium battery support",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
-                amountwater: "លក់ដុំ: $30.0",
-                solarpanel: "លក់រាយ:  $40.0",
+                amountwater: "",
+                solarpanel: "Description: PWM,With current display, 32-bit imported chip,Light and Timer control，Lithium battery support",
             }
         ]
     },
@@ -1354,13 +1354,13 @@ const listProduct =[
             {
                 brand: "Model: Sky Dream Serial",
                 model: "Spec: 60A/24-48V",
-                size: "Description: PWM,With current display, 32-bit imported chip,Light and Timer control，Lithium battery support",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
-                amountwater: "លក់ដុំ: $45.0",
-                solarpanel: "លក់រាយ: $60.0",
+                amountwater: "",
+                solarpanel: "Description: PWM,With current display, 32-bit imported chip,Light and Timer control，Lithium battery support",
             }
         ]
     },
@@ -1374,13 +1374,13 @@ const listProduct =[
             {
                 brand: "Model: Sky Dream Serial",
                 model: "Spec: 20A/12V-24V USB*2",
-                size: "Description: PWM,Without current display, 32-bits imported chip,Large terminal,Light and Timer control，Lithium battery support",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
-                amountwater: "លក់ដុំ: $15.0",
-                solarpanel: "លក់រាយ: $25.0",
+                amountwater: "",
+                solarpanel: "Description: PWM,Without current display, 32-bits imported chip,Large terminal,Light and Timer control，Lithium battery support",
             }
         ]
     },
@@ -1394,13 +1394,13 @@ const listProduct =[
             {
                 brand: "Model: Tracer Dream Serial",
                 model: "Spec: 20A/12V-24V Max.75V Solar Input.USB 2A 5V*2",
-                size: "Description: MPPT,Common positive. Adopt Synchronous Rectifier Technology，Tracking accuracy 99.5%，Efficiency 98%.Red and Black terminal，LCD Display and working LED Design",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
-                amountwater: "លក់ដុំ: $50.0",
-                solarpanel: "លក់រាយ: $60.0",
+                amountwater: "",
+                solarpanel: "Description: MPPT,Common positive. Adopt Synchronous Rectifier Technology，Tracking accuracy 99.5%，Efficiency 98%.Red and Black terminal，LCD Display and working LED Design",
             }
         ]
     },
@@ -1414,13 +1414,13 @@ const listProduct =[
             {
                 brand: "Model: Tracer Dream Serial",
                 model: "Spec: 30A/12V-24V Max.75V Solar Input.USB 2A 5V*2",
-                size: "Description: MPPT,Common positive. Adopt Synchronous Rectifier Technology，Tracking accuracy 99.5%，Efficiency 98%.Red and Black terminal，LCD Display and working LED Design",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
-                amountwater: "លក់ដុំ: $65.0",
-                solarpanel: "លក់រាយ: $80.0",
+                amountwater: "",
+                solarpanel: "Description: MPPT,Common positive. Adopt Synchronous Rectifier Technology，Tracking accuracy 99.5%，Efficiency 98%.Red and Black terminal，LCD Display and working LED Design",
             }
         ]
     },
@@ -1434,13 +1434,13 @@ const listProduct =[
             {
                 brand: "Model: Tracer Dream Serial",
                 model: "Spec: 40A/12V24V Max.Solar Input 100V",
-                size: "Description: MPPT,Common positive. Adopt Synchronous Rectifier Technology，Tracking accuracy 99.5%，Efficiency 98%.Red and Black terminal，LCD Display and working LED Design",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
-                amountwater: "លក់ដុំ: $100.0",
-                solarpanel: "លក់រាយ: $130.0",
+                amountwater: "",
+                solarpanel: "លក់រាយ: Description: MPPT,Common positive. Adopt Synchronous Rectifier Technology，Tracking accuracy 99.5%，Efficiency 98%.Red and Black terminal，LCD Display and working LED Design",
             }
         ]
     },
@@ -1454,13 +1454,13 @@ const listProduct =[
             {
                 brand: "Model: Tracer Dream Serial",
                 model: "Spec: 60A 12v 24v 48V auto work,Max Solar input 150V",
-                size: "Description: MPPT,Adoped Microchip CPU,Common Negative Design..Support Lithium battery and start from solar.Adopt synchronous rectifier techology.Tracking accuracy 99.5%, Efficiency 98%,Red and Black terminal,LCD DISPLAY,Narural cooling，Bluetooth Module standard",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
-                amountwater: "លក់ដុំ: $160.0",
-                solarpanel: "លក់រាយ: $190.0",
+                amountwater: "",
+                solarpanel: "Description: MPPT,Adoped Microchip CPU,Common Negative Design..Support Lithium battery and start from solar.Adopt synchronous rectifier techology.Tracking accuracy 99.5%, Efficiency 98%,Red and Black terminal,LCD DISPLAY,Narural cooling，Bluetooth Module standard",
             }
         ]
     },
@@ -1474,13 +1474,13 @@ const listProduct =[
             {
                 brand: "Model: Tracer Dream Serial",
                 model: "Spec: 80A 12v 24v 48V auto work,Max Solar input 200V",
-                size: "Description: MPPT,Adoped Microchip CPU,Common Negative Design..Support Lithium battery and start from solar.Adopt synchronous rectifier techology.Tracking accuracy 99.5%, Efficiency 98%,Red and Black terminal,LCD DISPLAY,Narural cooling，Bluetooth Module standard",
+                size: "",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
-                amountwater: "លក់ដុំ: $220.0",
-                solarpanel: "លក់រាយ: $250.0",
+                amountwater: "",
+                solarpanel: "Description: MPPT,Adoped Microchip CPU,Common Negative Design..Support Lithium battery and start from solar.Adopt synchronous rectifier techology.Tracking accuracy 99.5%, Efficiency 98%,Red and Black terminal,LCD DISPLAY,Narural cooling，Bluetooth Module standard",
             }
         ]
     }, 
@@ -1594,13 +1594,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Hippo",
                 model: "Model: SS1.5kW-12V",
-                size: "Description: Inverter output power: 1.5Kwv, battery voltage: 12V, MPPT input  current and power: 14A/1000W, MTTP input voltage range: 18-100V, supported battery type: Gel battery, lead-acid battery, lithium battery, communication terminal: USB(WI-FI), RJ45(CAN, 485 protocol, max parallel connected: 9pcs)",
+                size: ")",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 135",
+                solarpanel: "Description: Inverter output power: 1.5Kwv, battery voltage: 12V, MPPT input  current and power: 14A/1000W, MTTP input voltage range: 18-100V, supported battery type: Gel battery, lead-acid battery, lithium battery, communication terminal: USB(WI-FI), RJ45(CAN, 485 protocol, max parallel connected: 9pcs",
             }
         ]
     },
@@ -1614,13 +1614,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Hippo ",
                 model: "Model: SS3.6kw-24V",
-                size: "Description: Inverter output power: 3.5kw, battery voltage: 24v, MPPT input current and power: 14A/1500W, MPPT input voltage range: 120-450v, supported battery types: Gel battery, lead-acid battery, lithium battery, communication terminal: USB(WI-FI) , RJ45(CAN, 485 protocol)",
+                size: ")",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 220",
+                solarpanel: "Description: Inverter output power: 3.5kw, battery voltage: 24v, MPPT input current and power: 14A/1500W, MPPT input voltage range: 120-450v, supported battery types: Gel battery, lead-acid battery, lithium battery, communication terminal: USB(WI-FI) , RJ45(CAN, 485 protocol",
             }
         ]
     },
@@ -1634,13 +1634,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Hippo",
                 model: "Model: SS5.0kw-46v",
-                size: "Description: Inverter output power: 5kw, battery voltage: 48v, MPPT input current and power: 18A/6000W, MPPT input voltage range: 120v-450v, supported battery type: Gel battery, lead-acid battery, lithium battery, communication terminal: USB(WI-FI), RJ45(CAN, 485 protocol, max, parallel connected: 9pcs)",
+                size: ")",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $ 330",
+                solarpanel: "Description: Inverter output power: 5kw, battery voltage: 48v, MPPT input current and power: 18A/6000W, MPPT input voltage range: 120v-450v, supported battery type: Gel battery, lead-acid battery, lithium battery, communication terminal: USB(WI-FI), RJ45(CAN, 485 protocol, max, parallel connected: 9pcs",
             }
         ]
     },
@@ -1654,13 +1654,13 @@ const listProduct =[
             {
                 brand: "ម៉ាក: Hippo",
                 model: "Model: SS6.0kw-46v",
-                size: "Description: Inverter output power: 6kw, battery voltage: 48v, MPPT input current and power: 27A/9000W, MPPT input voltage range: 60-450V, supported battery types: Gel battery, lead-acid battery, lithium battery, communication terminal: USB (WI-FI), RJ45(CAN, 485 protocol)",
+                size: ")",
                 horsepower: "",
                 dc: "",
                 ac: "",
                 heigh: "",
                 amountwater: "",
-                solarpanel: "លក់ដុំ: $300",
+                solarpanel: "Description: Inverter output power: 6kw, battery voltage: 48v, MPPT input current and power: 27A/9000W, MPPT input voltage range: 60-450V, supported battery types: Gel battery, lead-acid battery, lithium battery, communication terminal: USB (WI-FI), RJ45(CAN, 485 protocol",
             }
         ]
     }, 
@@ -2214,3 +2214,4 @@ window.addEventListener("DOMContentLoaded", () => {
         }
     }
 });
+
